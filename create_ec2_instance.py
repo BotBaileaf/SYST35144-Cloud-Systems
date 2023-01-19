@@ -12,3 +12,4 @@ def create_instance():
         KeyName = keyname,)
 
 create_instance() 
+print("Instances Created: ", quantity)
